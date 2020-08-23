@@ -74,3 +74,35 @@ select {
   line-height: 67px;
   color: white;
 }
+.boxes {
+  margin-top: 72px;
+}
+.column-4 {
+  background-color: #ffffff;
+}
+.column-4 h4 {
+  margin-top: 26px;
+  color: #e63d42;
+  font-size: 22px;
+  line-height: 26px;
+  opacity: 100%;
+  border: #707070;
+}
+.column-4 span {
+  color: #a0a0a0;
+  font-size: 16px;
+  line-height: 26px;
+  border: #707070;
+  opacity: 100%;
+}
+.column-4 p {
+  color: #464646;
+  font-size: 17px;
+  border: #707070;
+  opacity: 100%;
+  margin-top: 21px;
+}
+.row {
+  background-color: #707070;
+  border: #707070;
+}
