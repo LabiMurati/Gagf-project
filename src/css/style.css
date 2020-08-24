@@ -53,6 +53,10 @@ select {
 .second-header li {
   margin-left: 70px;
 }
+.second-header b:hover {
+  content: "";
+  color: #e0353b;
+}
 .left-header__logo {
   width: 100%;
   display: inline;
@@ -62,16 +66,16 @@ select {
   width: 100%;
   justify-content: center;
   position: relative;
-  left: ;
 }
 .thumbnail-photo h1 {
   position: absolute;
   top: 637px;
-  left: 285px;
+  float: right;
   width: 948px;
   font-size: 50px;
   font-weight: 600;
   line-height: 67px;
+  left: 21%;
   color: white;
 }
 .boxes {
@@ -101,8 +105,4 @@ select {
   border: #707070;
   opacity: 100%;
   margin-top: 21px;
-}
-.row {
-  background-color: #707070;
-  border: #707070;
 }
